@@ -1,0 +1,25 @@
+body {
+    background-color: #cddda1;
+    color: rgb(255, 0, 0);  /* Set text color for the body */
+}
+
+h1 {
+    color: #333d20;
+}
+
+h3 {
+    color: #265073;
+}
+
+p {
+    color: #2D9596;
+}
+
+a {  /* Corrected from 'link' to 'a' for styling hyperlinks */
+    color: #2D9596;
+}
+
+button {
+    background-color: #9AD0C2;
+}
+
